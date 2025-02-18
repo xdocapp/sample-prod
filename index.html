@@ -34,5 +34,13 @@
 </head>
 <body>
   <script src="flutter_bootstrap.js" async></script>
+  <script>
+    // Check for a stored redirect path and navigate to it
+    if (sessionStorage.redirect) {
+      const redirect = sessionStorage.redirect;
+      delete sessionStorage.redirect;
+      window.history.replaceState({}, '', redirect);
+    }
+  </script>
 </body>
 </html>
