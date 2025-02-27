@@ -26956,7 +26956,7 @@ return A.u($async$a_Z,r)},
 ay1(){var s=0,r=A.v(t.H)
 var $async$ay1=A.q(function(a,b){if(a===1)return A.r(b,r)
 while(true)switch(s){case 0:$.pk="https://auth.xdoc.app"
-$.azd="s.xdoc.app"
+$.azd="api.xdoc.app"
 s=2
 return A.p(A.BD(),$async$ay1)
 case 2:new A.agi(A.a3S(null),$.pk+"/refresh").aht()
