@@ -26624,8 +26624,8 @@ return A.t(null,r)}})
 return A.u($async$a_q,r)},
 ax5(){var s=0,r=A.v(t.H)
 var $async$ax5=A.q(function(a,b){if(a===1)return A.r(b,r)
-while(true)switch(s){case 0:$.pc="https://s.xdoc.app"
-$.ayi="api.3u.gg"
+while(true)switch(s){case 0:$.pc="https://auth.xdoc.app"
+$.ayi="s.xdoc.app"
 s=2
 return A.p(A.Bo(),$async$ax5)
 case 2:new A.afK(A.a3l(null),$.pc+"/refresh").ah2()
