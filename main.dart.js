@@ -88779,7 +88779,7 @@ case 2:q.au(new p.aoQ(q,b))
 return A.t(null,r)}})
 return A.u($async$xo,r)},
 L(a){var s=null
-return A.OB(A.a06(s,s,A.eX("Landing Page",s,s,s,s,s,s)),s,A.aQU("assets/dashboard.html"))}}
+return A.OB(A.a06(s,s,A.eX("Landing Page",s,s,s,s,s,s)),s,A.aQU("../../assets/dashboard.html"))}}
 A.aoQ.prototype={
 $0(){var s=this.a,r=this.b
 s.e=r
